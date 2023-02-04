@@ -1,0 +1,46 @@
+h1 {
+  width: 10em;
+  margin: 10px auto;
+}
+
+p {
+  width: 50em;
+  margin: 10px auto;
+}
+
+.container {
+  width: 10em;
+  float: right;
+}
+
+.records {
+  width: 50%;
+  min-height: 300px;
+  margin: 20px auto;
+  border: 1px solid black;
+}
+
+table {
+  width: 100%;
+}
+thead {
+  background-color: #ff00ff44;
+}
+
+div.success {
+  background-color: #55ff5588;
+  border: 2px solid #55aa55;
+  border-radius: 33%;
+  width: 50em;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+div.fail {
+  background-color: #ff555588;
+  border: 2px solid #aa5555;
+  border-radius: 33%;
+  width: 50em;
+  margin: 20px auto;
+  padding: 20px;
+}
